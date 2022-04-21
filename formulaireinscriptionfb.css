@@ -74,5 +74,11 @@ body {
     position: absolute;
     top: 16%;
     left: 56%;
+}
 
+.h3 {
+    color:black;
+    font-size: 38px;
+    font-weight: 700;
+    margin-top: 20px;
 }
