@@ -137,6 +137,14 @@ select {
     margin-top: 316px;
 }
 
+.logofemme {
+    width: 20px;
+    }
+
+.logohomme {
+    width: 20px;
+    }
+
 .conditions {
     color: gray;
     display: block;
