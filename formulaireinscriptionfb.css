@@ -16,9 +16,9 @@ body {
 }
 
 .fb {
-    font-size: 38px;
+    font-size: 35px;
     position: absolute;
-    left: 180px;
+    left: 50px;
     color: white;
     top: 3.5%;
     font-weight: bold;
